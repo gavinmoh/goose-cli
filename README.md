@@ -1,4 +1,4 @@
-# Goose NPM
+# Goose CLI
 
 This is an unofficial npm wrapper for the [goose](https://github.com/pressly/goose) database migration tool. It allows you to use the goose CLI without needing to install Go or manually download the binary.
 
