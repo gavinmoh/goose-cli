@@ -1,0 +1,8 @@
+# TypeScript source files
+src/
+
+# TypeScript config
+tsconfig.json
+
+# GitHub Actions
+.github/

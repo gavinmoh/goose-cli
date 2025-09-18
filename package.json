@@ -1,0 +1,26 @@
+{
+  "name": "goose-cli",
+  "version": "3.25.0",
+  "description": "A wrapper for the goose database migration tool.",
+  "main": "dist/index.js",
+  "bin": {
+    "goose": "bin/goose-cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "pnpm build"
+  },
+  "keywords": [
+    "goose",
+    "database",
+    "migration",
+    "cli"
+  ],
+  "author": "Gavin Moh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "typescript": "^5.5.2"
+  },
+  "packageManager": "pnpm@9.14.2+sha1.5202b50ab92394b3c922d2e293f196e2df6d441b"
+}
