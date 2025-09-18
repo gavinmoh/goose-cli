@@ -6,3 +6,6 @@ tsconfig.json
 
 # GitHub Actions
 .github/
+
+bin/
+!bin/goose-cli.js
