@@ -1,6 +1,6 @@
 {
   "name": "goose-cli",
-  "version": "3.24.3",
+  "version": "3.24.2",
   "description": "A wrapper for the goose database migration tool.",
   "main": "dist/index.js",
   "bin": {
