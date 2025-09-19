@@ -1,5 +1,5 @@
 {
-  "name": "goose-cli",
+  "name": "goose-wrapper",
   "version": "3.25.0",
   "description": "A wrapper for the goose database migration tool.",
   "main": "dist/index.js",
